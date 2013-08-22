@@ -7,6 +7,7 @@ Usage: rn.py your/layout/path
 
 
 08.22.2013
+
     Initial version, support properties:
         padding
         layout_margin
